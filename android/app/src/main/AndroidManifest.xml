@@ -1,6 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
-        android:label="web_to_application"
+        android:label="Tricks Soft"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
